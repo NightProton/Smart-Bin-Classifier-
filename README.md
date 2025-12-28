@@ -1,10 +1,5 @@
 **Smart Bin Classifier**
 
-**  
-**Adya Bahl(SE22UARI205), Sri Spoorthi Vattem(SE22UARI165),
-G.Aniketh(SE22UARI11), Vivek Showry(SE22UARI014)
-
-**Github link: <https://github.com/adyab24/Assignment1_AppliedAI>**
 
 **1. Objective**
 
