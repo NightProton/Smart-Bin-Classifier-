@@ -29,7 +29,7 @@ The project followed a step-wise experimentation pipeline:
     distribution, and quantity patterns (from metadata).  
     This revealed a long-tail product distribution and bins typically
     containing 2--4 items"  
-    <https://mahindraecolecentrale-my.sharepoint.com/:f:/g/personal/se22uari205_mahindrauniversity_edu_in/IgAzee2S8inaQ6YQdbmJST_hAeiMP07x7JSkdmAKW3_QzPU?e=ZmbWIw>
+   
 
 2.  **Model experimentation**  
     Tried three major model families:
